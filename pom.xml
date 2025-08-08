@@ -5,14 +5,14 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.5.2</version>
+		<version>3.5.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.speedread</groupId>
-	<artifactId>backend</artifactId>
+	<artifactId>api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>speedread</name>
-	<description>Backend for speed-read app</description>
+	<name>api.speedread</name>
+	<description>Backend for SpeedRead app</description>
 	<url/>
 	<licenses>
 		<license/>
